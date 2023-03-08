@@ -52,3 +52,6 @@ nav > a:hover{
     font-size: 1.2em;
     color: gray
  }
+nav > a{
+    color: gray
+}
